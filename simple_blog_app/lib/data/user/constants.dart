@@ -1,0 +1,4 @@
+// ignore_for_file: constant_identifier_names
+
+const REGISTER_USER_LOADINGKEY = "REGISTER_USER_LOADINGKEY";
+const LOGIN_USER_LOADINGKEY = "LOGIN_USER_LOADINGKEY";
